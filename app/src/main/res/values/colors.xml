@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorGray">#636363</color>
+    <color name="background_my_material_light">@color/material_grey_50</color>
+    <color name="background_my_material_grey">#ededed</color>
+    <color name="pureWhite">#ffffff</color>
+    <color name="primary_text">#212121</color>
+    <color name="textHint">#88888888</color>
+    <color name="iconCover">#cc979797</color>
+    <color name="iconCoverDark">#cc393939</color>
+</resources>
